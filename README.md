@@ -1,34 +1,3 @@
-FEATURES
-Dormitory Management
-Student Examination
-Attendance Module
-Timetable Module
-Online Payment Acceptance (PayPal and Stripe)
-Reports Module
-Check Student Result with PIN
-Dark Theme Feature and RTL
-Assignment Module
-Study Material Module
-Academic Syllabus Module
-Online Student Admission Module
-Help Desk Features for Student
-Translation/Localization
-Import-Module
-Subject Management
-Online Enrollments
-Helpful Links
-SMS Alerts
-Manage Moral Talks
-Live Search Student
-Beautiful Statistical Dashboard
-Transportation Management
-School Holidays
-Right to Left Features for Arabic Student
-Online Payment acceptance of FEE
-Document Management
-Class Management Module
-Backup Management
-Export Module
-Settings Module
-Beautiful Dashboard Widget
-SMS API
+The system offers a comprehensive suite of features, including Dormitory Management, Student Examination, and an Attendance Module, along with a Timetable Module for streamlined scheduling. It supports Online Payment Acceptance through PayPal and Stripe and provides a robust Reports Module. Students can check their results using a PIN, and the platform includes a Dark Theme and RTL (Right-to-Left) support, catering to Arabic students. Additional features include an Assignment Module, Study Material Module, and Academic Syllabus Module, along with an Online Student Admission Module and Help Desk Features for student support. The system offers Translation and Localization, an Import Module, and efficient Subject Management. It also supports Online Enrollments, provides Helpful Links, and enables SMS Alerts. The platform manages Moral Talks, offers a Live Search Student feature, and presents a Beautiful Statistical Dashboard. Transportation Management, School Holidays, and advanced Right-to-Left features enhance usability. It facilitates Online Fee Payment, Document Management, Class Management, and Backup Management. Export and Settings Modules, a Beautiful Dashboard Widget, and SMS API integration further elevate the system's functionality and user experience.
+
+BUilt using PHP, MySQL, jQuery, and other open tools.
