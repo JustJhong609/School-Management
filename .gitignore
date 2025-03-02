@@ -1,0 +1,19 @@
+# Ignore XAMPP, IDE, and server-specific files
+/vendor
+/node_modules
+*.log
+*.sql
+*.env
+config.php
+/uploads
+/cache
+/tmp
+/backups
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE files
+.vscode/
+.idea/
